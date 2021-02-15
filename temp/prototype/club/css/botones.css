@@ -1,0 +1,21 @@
+.botoncss{
+	color: #ffffff;
+	background: #44BB99;
+	display: inline-block;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	line-height: 1.5em;
+	padding: 12px 24px;
+	text-transform: uppercase;
+	border: none;
+	outline: none;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+	-ms-transition: all 0.3s ease-out;
+	-o-transition: all 0.3s ease-out;
+	transition: all 0.3s ease-out;
+}
+.botoncss:hover{
+	background: #364852;
+	color: #ffffff;	
+}

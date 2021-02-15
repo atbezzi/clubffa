@@ -1,0 +1,17 @@
+$colorFondo: yellow;
+$titulos1: red;
+$titulos2: blue;
+$titulos3: green;
+
+body {
+  background-color: $colorFondo;
+}
+h1 {
+  color: $titulos1;
+}
+h2 {
+  color: $titulos2;
+}
+h3 {
+  color: $titulos3;
+}

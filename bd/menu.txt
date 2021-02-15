@@ -1,0 +1,65 @@
+Secretario
+	formulario
+		consultar
+		formulariode ingreso
+			civil
+			pensionista
+			militar
+		formulario de estado
+	administracion de socios
+		consultar socios
+			ver - modificar
+	administracion de embarcacion
+		registrar embarcacion
+		consultar
+			ver - modificar
+
+Administrador
+	Usuarios
+		registra usuario
+		consultar
+			ver - modificar-estado
+	gestion en general
+		zonas
+			registra 
+			consultar
+				ver - modificar-estado
+		categoriasias de socios
+			registra 
+			consultar
+				ver - modificar-estado
+		estados de socios
+			registra 
+			consultar
+				ver - modificar-estado
+
+Presidente
+	Formularios
+		Consultar
+			Votar
+
+Tesorero
+	formulario
+		formulario de estado
+	gestion de pago
+		Cargar cobro ---> opc imprimir
+		consultar cobro
+	cobradores
+		consultar
+			asignarles socios
+			asigna la zona
+	seguimiento decobros (todos los cobradores)
+		Consultar
+
+Cobrador
+	Socios
+		Consultar
+	seguimiento decobros (solo la de el)
+		Consultar
+			modifica estado
+		
+		
+
+	
+	
+		
